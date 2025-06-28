@@ -14,7 +14,7 @@ To analyze customer behavior, engagement, and profitability. The goal is to iden
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 - **Tableau Desktop & Tableau Public**
 - **Excel / CSV Data Files**
