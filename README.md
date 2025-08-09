@@ -72,7 +72,7 @@ The dataset includes:
 ##  Deliverables
 
 -  **[Interactive Tableau Dashboard (View on Tableau Public)](https://public.tableau.com/app/profile/taran.arora/viz/SalesCustomerDashboards_17510874697420/SalesDashboard)**  
--  Project documentation (this README)
+-  Project documentation (this Repo)
 
 ---
 ##  What I Learned
